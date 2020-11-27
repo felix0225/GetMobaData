@@ -85,7 +85,6 @@
   <ItemGroup>
     <Content Include="App_Data\moba.sqlite3" />
     <None Include="packages.config" />
-    <None Include="Properties\PublishProfiles\felixrunes - FTP.pubxml" />
     <None Include="Properties\PublishProfiles\felixrunes - Web Deploy.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
